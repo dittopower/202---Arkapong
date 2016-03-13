@@ -1,5 +1,6 @@
 # 202---Arkapong
 CAB202 Microprocessors
+This was a project I did whilst i was at university.
 
 <h1>Arkapong</h1>
 The creation of a pong based game in C using a university provided library.
